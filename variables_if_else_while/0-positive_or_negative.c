@@ -1,12 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* negative or positive program */
-
-/*
-*main-betty
-Return:always (0)
-*/
+/**
+ *main-betty
+ *Return: always 0 (Success)
+ */
 int main(void)
 {
 int n;
