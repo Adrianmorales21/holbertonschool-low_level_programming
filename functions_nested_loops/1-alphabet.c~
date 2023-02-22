@@ -1,0 +1,11 @@
+#include "main.h"
+/**
+ * main -print alphabet
+ *Return: always 0 (Success)
+ */
+void printf_alphabet(void)
+	int a = 97 ;
+	
+	while(a < 123)
+{
+	_putchar(
