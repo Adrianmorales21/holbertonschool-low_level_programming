@@ -3,7 +3,7 @@
  * main -print alpha
  *Return:void
  */
-void printf_alphabet(void)
+void print_alphabet(void)
 {
        int a;
 	
