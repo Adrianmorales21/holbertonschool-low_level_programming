@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _abs- absolute integer
- * @i - integer
+ * @i:integer
  * Return: absolute value
  */
 int _abs(int i)
@@ -12,6 +12,6 @@ int _abs(int i)
 	}
 	else
 	{
-		return (i *-1);
+		return (i * -1);
 	}
 }
