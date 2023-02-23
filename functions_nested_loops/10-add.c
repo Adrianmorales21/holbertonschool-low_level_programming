@@ -5,7 +5,7 @@
  * @b:add to a
  * Return: te value of the sum
  */
-int add(int a, int b)u;
+int add(int a, int b)
 {
 	int c;
 	 c = a + b;
