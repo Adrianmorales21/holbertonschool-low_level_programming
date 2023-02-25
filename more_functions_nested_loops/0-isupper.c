@@ -1,8 +1,8 @@
 #include "main.h"
-/*
- * _isupper -return 1 if c is upper
- * @c-integer
- * Return: always 0 if its not upper
+/**
+ *_isupper - return 1 if c is upper
+ *@c:integer
+ *Return: always 0 if its not upper
  */
 int _isupper(int c)
 {
