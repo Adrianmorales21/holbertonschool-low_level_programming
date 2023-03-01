@@ -3,6 +3,8 @@
  * _strncat-copies string
  * @dest: destination string
  * @src: source string
+ * @n: STRING
+ * Return: dest
  */
 char *_strncat(char *dest, char *src, int n)
 {
