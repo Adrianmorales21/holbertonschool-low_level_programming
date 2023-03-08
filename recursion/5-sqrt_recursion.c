@@ -16,9 +16,9 @@ int _sqrt_recursion(int n)
 
 /**
  * actual_sqrt_recursion - find the square root
- * @n: number 
+ * @n: number
  * @i: iterator
- * Return: square 
+ * Return: square
  */
 int actual_sqrt_recursion(int n, int i)
 {
