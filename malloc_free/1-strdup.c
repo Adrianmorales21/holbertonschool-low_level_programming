@@ -4,17 +4,17 @@
 /**
  * _strdup- duplicates a string
  * @str: string to duplicate
- * Returns: pointer with duplicated string
+ * Return: pointer with duplicated string
  */
 char *_strdup(char *str)
 {
 	char *dup;
 	int c, l;
-	
+
 	if (str == NULL)
 		return (NULL);
-	l = strlen(str + 1);
-	dup = malloc(l);
+	l = strlen(str);
+	dup = malloc(l + 1);
 	if (dup == NULL)
 		return (NULL);
 	for (c = 0; c < l; c++)
