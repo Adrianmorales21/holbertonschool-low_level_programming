@@ -1,7 +1,7 @@
 #include "dog.h"
 #include <stdlib.h>
-/*
- * init_dog- initializes the doc struct
+/**
+ * init_dog-initializes the doc struct
  * @d: pointer to in initialize
  * @name: first member
  * @age: second member
