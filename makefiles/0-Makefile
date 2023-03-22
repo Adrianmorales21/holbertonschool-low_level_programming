@@ -1,4 +1,4 @@
-all: Compile
+all: compile
 
-Compile:
+compile:
 	gcc main.c school.c -o school
