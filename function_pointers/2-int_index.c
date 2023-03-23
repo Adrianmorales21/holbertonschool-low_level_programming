@@ -1,9 +1,10 @@
 #include "function_pointers.h"
 /**
- * int_index - return index 
+ * int_index - return index
  * @array: array
  * @size: size of array
  * @cmp: pointer to function
+ * Return: 0
  */
 int int_index(int *array, int size, int (*cmp)(int))
 {
