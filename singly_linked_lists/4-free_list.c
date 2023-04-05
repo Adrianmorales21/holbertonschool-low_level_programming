@@ -1,4 +1,4 @@
-4-free_list.c#include "lists.h"
+#include "lists.h"
 
 /**
  * free_list- free linked list
