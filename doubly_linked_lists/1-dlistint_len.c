@@ -14,3 +14,4 @@ size_t dlistint_len(const dlistint_t *h)
 		count_node++;
 	}
 	return (count_node);
+}
